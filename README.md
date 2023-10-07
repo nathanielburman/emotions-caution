@@ -7,7 +7,7 @@ The emotion called “Be Careful”
 
 3. Be Careful can immediatlly prevent an action from occurring
 
-4. Be Careful can sliw down actions
+4. Be Careful can slow down actions
 
 5. Be Careful can lead to overthinking
 
